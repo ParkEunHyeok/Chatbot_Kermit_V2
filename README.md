@@ -1,4 +1,4 @@
-# Chatbot_Kernit_V2
+# Chatbot_Kermit_V2
 V1의 용량을 대폭 줄인 Transformer 기반의 챗봇
 
 
